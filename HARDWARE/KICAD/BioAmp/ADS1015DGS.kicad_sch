@@ -596,6 +596,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4b25bbd7-b30f-48ee-ad6d-27ad6d78161e)
   )
+  (text "* Sugestão André: Utilizar o ADC MCP3464" (at 187.96 142.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 99143dec-f7c7-4ba2-8f04-28b7820ea154)
+  )
 
   (hierarchical_label "SCL" (shape bidirectional) (at 167.132 96.52 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
